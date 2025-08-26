@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://rafay-vivek.github.io/my-new-helm-repo/mychart-0.1.0.tgz
-    version: 0.1.2
+    version: 0.1.3
 generated: "2025-08-14T18:29:01.221617+05:30"
